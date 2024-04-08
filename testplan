@@ -305,7 +305,7 @@ option bit 32     ! Prevents range error when comparing Psgroup with MSB set
 ! IYET
 dim IYET_Failing_Tests$(0:2047)[40]
 dim IYET_Retest_Failing_Devices$(0:8191)[40]
-dim IYET_Top_Retests$(0:8191,2)[10]
+dim IYET_Top_Retests$(0:8191,2)[40]
 
 !add retest without send Flexflow !FGU, 1 to 6
 SILDir$ =  "F:/.SIL/"
