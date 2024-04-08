@@ -247,7 +247,7 @@
 !   use ID check for digital test subroutine to ensure proper part placement
 !   Cycle power if required to three-state upstream devices
 
-! EEprom variables definio
+! EEprom variables Define
 ! for act2 quack ic programming
 dim HDR1(0:127),HDR2(0:127),HDR3(0:127)
 dim EE_D1(0:1023),EE_D2(0:1023),EE_D3(0:1023)
