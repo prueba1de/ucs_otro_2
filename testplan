@@ -289,7 +289,7 @@ dim IR_USER_PROG_PT_U1_8(6)
 dim IR_USER_VER_PT_U1_8(6)
 dim IR_CONFIG_CAP_PT_U1_8(5)
 dim IR_CONFIG_PROG_PT_U1_8(6)
-dim IR_CONFIG_VER_PT_U1_8(6)
+dim IR_CONFIG_VER_PT_U1_8(60)
 
 ! Miscellaneous string variable size declarations:
 dim InvOn$[5], InvOff$[4]
