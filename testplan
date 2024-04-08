@@ -311,7 +311,7 @@ dim IYET_Top_Retests$(0:8191,2)[40]
 SILDir$ =  "F:/.SIL/"
 SIL2Dir$ = "F:/.SIL2/"
 SIL = True
-SIL2 = False
+SIL2 = True
 
 
 
